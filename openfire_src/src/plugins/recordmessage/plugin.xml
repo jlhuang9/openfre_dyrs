@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Plugin configuration file for the admin console. This file must
+  live in the root of the plugin's directory.
+-->
+<plugin>
+    <class>com.dyrs.hcq.RecordMessagePlugin</class>
+    <name>Record Message Plugin</name>
+    <description>聊天消息处理（聊天记录、欢迎语）</description>
+</plugin>

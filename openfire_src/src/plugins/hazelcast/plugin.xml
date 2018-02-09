@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin>
+    <class>org.jivesoftware.openfire.plugin.HazelcastPlugin</class>
+    <name>Hazelcast plugin</name>
+    <description>Adds clustering support</description>
+    <author>Tom Evans</author>
+    <version>2.2.4</version>
+    <date>10/26/2017</date>
+    <minServerVersion>4.2.0</minServerVersion>
+</plugin>
